@@ -70,6 +70,8 @@ As before, spend a little time playing with this notebook. Try different filters
 
 Ok, now it’s time for this week’s assignment. In the class you learned how to enhance the Fashion MNIST neural network with Convolutions to make it more accurate. Now it’s time to revisit the handwriting MNIST dataset from last week, and see if you can enhance it with Convolutions.
 
-NOTE: Please do not modify any of the code already provided in the Exercise question, and please only add your additional code in the indicated areas marked by the comments. Once you have completed your notebook assignment and received a final score, please save your notebook, run the final cell, and close your Jupyter Workspace. This will help optimize your Jupyter workspace performance for future assessments. Please note that this step will shut down your kernel, so it is important to save your work in advance of completing this step
+NOTE: Please do not modify any of the code already provided in the Exercise question, and please only add your additional code in the indicated areas marked by the comments. Once you have completed your notebook assignment and received a final score, please save your notebook, run the final cell, and close your Jupyter Workspace. This will help optimize your Jupyter workspace performance for future assessments. Please note that this step will shut down your kernel, so it is important to save your work in advance of completing this step. 
 
 [노트열기](https://vlxjaasiiaklrpalrbmicg.coursera-apps.org/notebooks/week3/Excercise-3-Question.ipynb)
+
+## Exercise 3 - Improve MNIST with convolutions
