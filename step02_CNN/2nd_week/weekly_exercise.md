@@ -1,0 +1,7 @@
+## Exercise 2 - Cats vs. Dogs using augmentation
+Now that you’ve seen Image Augmentation in action, it’s time to go back to the Cats v Dogs full Kaggle Challenge exercise. Last week you built a classifier for Cats v Dogs and trained it for a few epochs. This week I want you to add Augmentation to it, and experiment with different parameters to avoid overfitting. This will likely take a lot of time -- as it requires using the full dataset along with augmentation code to edit the data on-the-fly. The opportunity here is to try hard to get into State-of-the-Art type classification. Experiment with different images it hasn’t before seen, and see if you can get it to correctly classify them! For a particularly challenging image, see if you can get it to classify this one correctly: https://pixabay.com/photos/bed-dog-animals-dogs-pets-relax-1284238/
+
+Lets now build the Cats vs. Dogs classifier using augmentation!
+
+NOTE: Please do not alter any of the provided code in the exercise. Only add your own code where indicated. Please do not add or remove any cells in the exercise. The grader will check specific cells based on the cell position. Please use the provided epoch values when training. Once you have completed your notebook assignment and received a final score, please save your notebook, run the final cell, and close your Jupyter Workspace. This will help optimize your Jupyter workspace performance for future assessments. Please note that this step will shut down your kernel, so it is important to save your work in advance of completing this step
+
