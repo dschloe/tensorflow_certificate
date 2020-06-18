@@ -46,17 +46,17 @@ Let's take a look at the third [notebook](https://colab.research.google.com/gith
 
 5. If you don’t use a token for out of vocabulary words, what happens at encoding?
 
-[ ] The word isn’t encoded, and is skipped in the sequence
-[x] The word isn’t encoded, and is replaced by a zero in the sequence
-[x] The word isn’t encoded, and the sequencing ends
-[x] The word is replaced by the most common token
+[x] The word isn’t encoded, and is skipped in the sequence
+[ ] The word isn’t encoded, and is replaced by a zero in the sequence
+[ ] The word isn’t encoded, and the sequencing ends
+[ ] The word is replaced by the most common token
 
 6. If you have a number of sequences of different lengths, how do you ensure that they are understood when fed into a neural network?
 
-[ ] Use the pad_sequences object from the tensorflow.keras.preprocessing.sequence namespace
-[x] Make sure that they are all the same length using the pad_sequences method of the tokenizer
-[x] Specify the input layer of the Neural Network to expect different sizes with dynamic_length
-[x] Process them on the input layer of the Neural Netword using the pad_sequences property
+[x] Use the pad_sequences object from the tensorflow.keras.preprocessing.sequence namespace
+[ ] Make sure that they are all the same length using the pad_sequences method of the tokenizer
+[ ] Specify the input layer of the Neural Network to expect different sizes with dynamic_length
+[ ] Process them on the input layer of the Neural Netword using the pad_sequences property
 
 7. If you have a number of sequences of different length, and call pad_sequences on them, what’s the default result?
 
