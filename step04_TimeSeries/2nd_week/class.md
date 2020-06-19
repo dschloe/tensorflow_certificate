@@ -93,5 +93,8 @@ x_valid = series[split_time:]
 [x] Use a LearningRateScheduler object in the callbacks namespace and assign that to the callback
 [ ] You can’t set it
 
+## Week 2 Wrap up
+You've now explored time series data, and seen how to split it into training and validation sets for training a DNN.
 
+But sequence data tends to work better with RNNs, so next week you're going to look at training a model using RNNs and LSTMs on this data to see what happens!
 
